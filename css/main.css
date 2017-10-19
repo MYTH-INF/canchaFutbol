@@ -1,0 +1,56 @@
+body{
+  background-color: #008000	;
+}
+section{
+  border: 5px solid white;
+  width: 1300px;
+  height: 600px;
+  margin: auto;
+  position: relative;
+}
+.box1{
+  border: 2px solid white;
+  height: 300px;
+  width: 100px;
+  position: absolute;
+  left: 1200px;
+  top: 150px;
+}
+.box2{
+  border: 2px solid white;
+  height: 300px;
+  width: 100px;
+  position: absolute;
+  top: 150px;
+}
+.circlecenter{
+  border: 2px solid white;
+  border-radius: 300px;
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: 150px;
+  left: 500px;
+}
+
+.ball1{
+  background-color: #000000	;
+  border: 2px solid #000000	;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 180px;
+  left: 30px;
+}
+
+.player{
+  color: RED;
+
+  position: absolute;
+  top: 230px;
+  left: 250px;
+}
+img{
+  width: 200px;
+}
